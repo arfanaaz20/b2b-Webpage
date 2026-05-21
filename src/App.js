@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import LoginCard from "./components/LoginCard";
+// import LoginCard from "./components/LoginCard";
 import "./App.css";
 
 function App() {
